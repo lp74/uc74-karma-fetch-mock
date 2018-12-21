@@ -1,0 +1,23 @@
+{
+  "name": "uc74-phantomjs-fatch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "fetch-mock": "^7.2.7",
+    "fetch-mock-es5": "^7.0.3",
+    "jasmine-core": "^3.3.0",
+    "karma": "^3.1.4",
+    "karma-jasmine": "^2.0.1",
+    "karma-junit-reporter": "^1.2.0",
+    "karma-mocha-reporter": "^2.2.5",
+    "karma-phantomjs-launcher": "^1.0.4",
+    "karma-polyfill": "^1.0.0"
+  },
+  "dependencies": {}
+}
